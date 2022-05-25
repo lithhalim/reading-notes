@@ -9,7 +9,7 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 
 #### solve the practice prive on my portofolio
 #### 🔗 Links
-[practive](/AllReadMeFile/READMESQL.md)
+[Solve  SQL Bolt Click Heare](/AllReadMeFile/READMESQL.md)
 
 
 
