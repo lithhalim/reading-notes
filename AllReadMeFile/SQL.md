@@ -1,12 +1,12 @@
-<h5>&&Relational databases and SQL</h5>
-######Relational Database:the database relation debend table related with each other 
+####&&Relational databases and SQL
+##### Relational Database:the database relation debend table related with each other 
 ###### SQL is the standard language for dealing with Relational Databases
 
 
 
 
 
-#####2-Practice running common SQL commands using the following SQL Bolt tutorials.
+##### 2-Practice running common SQL commands using the following SQL Bolt tutorials.
 Lessons 1
 ![](../assest/practice/1.png)Lessons 2
 ![](../assest/practice/2.png)Lessons 3
