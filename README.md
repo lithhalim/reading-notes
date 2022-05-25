@@ -1,6 +1,6 @@
 
 ### Reading-notes
-<h2 align="center">SECTION1-SQL</h2>
+<h2 align="center">SQL</h2>
 
 #### Online Book
 
@@ -8,8 +8,12 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 
 
 #### solve the practice prive on my portofolio
-#### 🔗 Links
+#### 🔗 Links practice
 [Solve  SQL Bolt Click Heare](/AllReadMeFile/READMESQL.md)
 
+<h2 align="center">The Command Line </h2>
 
+#### 🔗 Links Documentation
+
+[link for important summarizing ](https://linktodocumentation)
 
