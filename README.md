@@ -15,5 +15,5 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 
 #### 🔗 Links Documentation
 
-[link for important summarizing ](https://linktodocumentation)
+[link for important summarizing ](./AllReadMeFile/READMETheCommandLine.md)
 
