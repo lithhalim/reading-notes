@@ -21,4 +21,11 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 
 #### 🔗 Links Documentation
 
-[link for important summarizing ](./AllReadMeFile/READMEGIT.md)
+[git practice and dicmontation ](./AllReadMeFile/READMEGIT.md)
+
+<h2 align="center">Typing test </h2>
+
+
+#### 🔗 Links Documentation
+
+[Typing practice ](./AllReadMeFile/READMETYPING.md)
