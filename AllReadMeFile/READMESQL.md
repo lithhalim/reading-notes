@@ -1,6 +1,36 @@
 #### Relational databases and SQL
 ##### Relational Database:the database relation debend table related with each other 
 ###### SQL is the standard language for dealing with Relational Databases
+
+
+<h3 align="center">SQL</h3>
+#### Create Database
+###### CREATE DATABASE acme;
+#### Delete Database
+###### DROP DATABASE acme;
+#### Select Database
+###### USE acme;
+#### Create Table
+###### CREATE TABLE users(
+id INT AUTO_INCREMENT,
+   first_name VARCHAR(100),
+   last_name VARCHAR(100),
+);
+
+### Where Clause
+###### SELECT * FROM users WHERE location='Massachusetts';
+###### SELECT * FROM users WHERE location='Massachusetts' AND dept='sales';
+###### SELECT * FROM users WHERE is_admin = 1;
+SELECT * FROM users WHERE is_admin > 0;
+### Delete Row
+###### DELETE FROM users WHERE id = 6;
+### Update Row
+###### UPDATE users SET email = 'freddy@gmail.com' WHERE id = 2;
+### Add New Column
+###### ALTER TABLE users ADD age VARCHAR(3);
+
+
+
 ##### 2-Practice running common SQL commands using the following SQL Bolt tutorials.
 
 ![](../assest/practice/1.png)

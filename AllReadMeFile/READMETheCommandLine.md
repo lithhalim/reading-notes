@@ -65,3 +65,44 @@ Remove a file or directory.
 
 </tr>
 </table>
+
+
+
+## Working with Git
+
+### Quick Start
+### git clone <url> 					
+# Clone directory
+###git checkout -b <new-branch> 		
+ Create new local branch
+### git push -u origin <new-branch> 	
+ Sync local branch with remote
+### git push origin <branch> 			
+ Push branch to remote
+
+ ### git branch -d <branchname>   	
+  deletes local branch
+### git push origin :<branchname>	
+ deletes remote branch
+
+### git subtree push --prefix docs origin gh-pages  
+push docs as subtree to gh-pages
+
+
+
+### Clone Directory
+git clone <url>
+
+
+
+### Create Project
+cd project/
+### git init                    
+initializes the repository
+### git add .                  
+add those 'unknown' files
+### git commit                  
+ commit all changes, edit changelog entry
+### git rm --cached <file>...   
+ ridiculously complicated command to undo, in case you forgot .gitignore
+
