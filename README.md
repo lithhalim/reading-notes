@@ -39,3 +39,14 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 #### 🔗 Links Documentation
 
 [Typing practice ](./AllReadMeFile/READMETYPING.md)
+
+<h2 align="center">SOLVE READING SECTION</h2>
+
+
+#### 🔗 Links Documentation
+
+[READING SECTION ](./AllReadMeFile/READMETYPING.md)
+
+
+
+
