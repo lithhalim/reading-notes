@@ -45,8 +45,26 @@ Updates your current local working branch with all new commits from the correspo
 
 
 ## practic
-
  - ![Example 1](../assest/git%20practice/1.png)
  - ![Example 2 ](../assest/git%20practice/2.png)
  - ![Example 3](../assest/git%20practice/3.png)
+ - ![Example 1](../assest/git%20practice/4.png)
+ - ![Example 2 ](../assest/git%20practice/5.png)
+ - ![Example 3](../assest/git%20practice/6.png)
+ - ![Example 1](../assest/git%20practice/7.png)
+ - ![Example 2 ](../assest/git%20practice/8.png)
+ - ![Example 3](../assest/git%20practice/9.png)
+ - ![Example 1](../assest/git%20practice/10.png)
+ - ![Example 2 ](../assest/git%20practice/11.png)
+ - ![Example 3](../assest/git%20practice/12.png)
+ - ![Example 1](../assest/git%20practice/13.png)
+ - ![Example 2 ](../assest/git%20practice/14.png)
+ - ![Example 3](../assest/git%20practice/15.png)
+
+
+ - ![Example 1](../assest/git%20practice/16.png)
+ - ![Example 2 ](../assest/git%20practice/17.png)
+ - ![Example 3](../assest/git%20practice/18.png)
+  - ![Example 3](../assest/git%20practice/19.png)
+
 
