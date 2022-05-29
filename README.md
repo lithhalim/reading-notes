@@ -48,5 +48,16 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 [READING SECTION ](./AllReadMeFile/READMETYPING.md)
 
 
+<h2 align="center">READFILE</h2>
+
+#### 🔗 CLASS 1
+
+[READING CLASS 1 ](./classes/READMECLASS1.md)
+
+
+
+
+
+
 
 
