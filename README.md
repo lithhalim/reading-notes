@@ -53,6 +53,8 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 #### 🔗 CLASS 1
 
 [READING CLASS 1 ](./classes/READMECLASS1.md)
+[READING CLASS 2 ](./classes/READMECLASS2.md)
+
 
 
 
