@@ -56,7 +56,7 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 ##### class2
 [READING CLASS 2 ](./classes/READMECLASS2.md)
 ##### class3
-[READING Linked List ](./classes/READMECLASS2.md)
+[READING Linked List ](./classes/READMECLASS3.md)
 
 
 
