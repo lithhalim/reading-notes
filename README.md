@@ -57,7 +57,19 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 [READING CLASS 2 ](./classes/READMECLASS2.md)
 ##### class3
 [READING Linked List ](./classes/READMECLASS3.md)
+##### class4 sql vs nosql
+[READING Linked List ](./classes/READMECLASS3.md)
 
+
+| TTD | CLASS ES6      | linked list                       |
+| :-------- | :------- | :-------------------------------- |
+| [READING CLASS 1 ](./classes/READMECLASS1.md)    |[READING CLASS 2 ](./classes/READMECLASS2.md) | [READING Linked List ](./classes/READMECLASS3.md)
+|
+
+| SQL VS NOSQL |    class 5   |     class 6                    |
+| :-------- | :------- | :-------------------------------- |
+| [READING sqlvsnosql ](./classes/CLASS4/READMECLASS4.md)
+    
 
 
 
