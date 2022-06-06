@@ -51,30 +51,15 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 <h2 align="center">READFILE</h2>
 
 #### 🔗 CLASS 
-##### class1
-[READING CLASS 1 ](./classes/READMECLASS1.md)
-##### class2
-[READING CLASS 2 ](./classes/READMECLASS2.md)
-##### class3
-[READING Linked List ](./classes/READMECLASS3.md)
-##### class4 sql vs nosql
-[READING Linked List ](./classes/READMECLASS3.md)
 
-
-| TTD | CLASS ES6      | linked list                       |
-| :-------- | :------- | :-------------------------------- |
-| [READING CLASS 1 ](./classes/READMECLASS1.md)    |[READING CLASS 2 ](./classes/READMECLASS2.md) | [READING Linked List ](./classes/READMECLASS3.md)
-|
-
-| SQL VS NOSQL |    class 5   |     class 6                    |
-| :-------- | :------- | :-------------------------------- |
-| [READING sqlvsnosql ](./classes/CLASS4/READMECLASS4.md)
-    
-
-
-
-
-
+ 
+| CLASS NAME            |                  LINKED CALSS                             |
+| --------------------- | -------------------------------------------------------   |
+| Class1(TTD )          | [READING CLASS 1 ](./classes/READMECLASS1.md)             |
+| Class2(ES6 )          | [READING CLASS 2 ](./classes/READMECLASS2.md)             |
+| Class3(LinkedList)    | [READING Linked List ](./classes/READMECLASS3.md)         | 
+| Class4(sqlnosql  )    | [READING Linked List ](./classes/CLASS4/READMECLASS4.md)  |
+| Class5(sequlize  )    | [READING Linked List ](./classes/CLASS5/READMECLASS5.md)  |
 
 
 
