@@ -60,7 +60,8 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | Class3(LinkedList)    | [READING Linked List ](./classes/READMECLASS3.md)         | 
 | Class4(sqlnosql  )    | [READING Linked List ](./classes/CLASS4/READMECLASS4.md)  |
 | Class5(sequlize  )    | [READING Linked List ](./classes/CLASS5/READMECLASS5.md)  |
-| Class6(Authentication  )    | [READING Linked List ](./classes/class6/READMEAuthentication.md)  |
+| Class6(Authenticatio )| [READING Linked List ](./classes/class6/READMEAuthentication.md)  |
+| Class7(JWT  )         | [READING Linked List ](./classes/CLASS7/README7.md)       |
 
 
 
