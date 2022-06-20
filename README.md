@@ -63,6 +63,7 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | Class6(Authenticatio )| [READING Linked List ](./classes/class6/READMEAuthentication.md)  |
 | Class7(JWT  )         | [READING Linked List ](./classes/CLASS7/README7.md)       |
 | Class8(acl  )         | [READING Linked List ](./classes/class8/README8.md)       |
+| Class9(stack and queue )| [stack and queue ](./classes/class%208/README.md)       |
 
 
 
