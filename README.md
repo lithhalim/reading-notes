@@ -66,6 +66,8 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | Class9(stack and queue )| [stack and queue ](./classes/class%208/README.md)       |
 | Class11(Event-Driven Programming )| [Event-Driven ](./classes/class11/READMEC.md)       |
 | Class12(soketio )     | [soket io ](./classes/class12/README.md)       |
+| class13(soketio-chat )     | [soket io-chat ](./classes/READMECLASS13.md)       |
+
 
 
 
