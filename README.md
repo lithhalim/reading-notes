@@ -68,6 +68,7 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | Class12(soketio )     | [soket io ](./classes/class12/README.md)                  |
 | class13(soketio-chat )| [soket io-chat ](./classes/READMECLASS13.md)              |
 | class14(tree )        | [tree ](./classes/tree/README.md)              |
+| class15(aws )         | [aws ](./classes/aws/README.md)              |
 
 
 
