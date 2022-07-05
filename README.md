@@ -67,8 +67,10 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | Class11(Event-Driven )| [Event-Driven ](./classes/class11/READMEC.md)             |
 | Class12(soketio )     | [soket io ](./classes/class12/README.md)                  |
 | class13(soketio-chat )| [soket io-chat ](./classes/READMECLASS13.md)              |
-| class14(tree )        | [tree ](./classes/tree/README.md)              |
-| class15(aws )         | [aws ](./classes/aws/README.md)              |
+| class14(tree )        | [tree ](./classes/tree/README.md)                         |
+| class15(aws )         | [aws ](./classes/aws/README.md)                           |
+| class16(aws2 )         | [aws2 ](./classes/aws2/README.md)                        |
+
 
 
 
