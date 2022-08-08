@@ -74,10 +74,6 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 
 
 
-
-
-
-
-
-
-
+| CLASS NAME            |                  LINKED CALSS                             |
+| --------------------- | -------------------------------------------------------   |
+| Component Based UI    | [Read: Class 26](./frontend/classCombonants.md)             |
