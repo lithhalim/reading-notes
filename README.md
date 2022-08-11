@@ -70,11 +70,11 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | class14(tree )        | [tree ](./classes/tree/README.md)                         |
 | class15(aws )         | [aws ](./classes/aws/README.md)                           |
 | class16(aws2 )        | [aws2 ](./classes/aws2/README.md)                        |
-| class17(aws 3)        | [aws3 ](./classes/aws3/README.md)                        |
-
+| class17(aws 3)        | [aws3 ](./classes/aws3/README.md)                
 
 
 | CLASS NAME            |                  LINKED CALSS                             |
 | --------------------- | -------------------------------------------------------   |
 | Component Based UI    | [Read: Class 26](./frontend/classCombonants.md)             |
 | Using the State Hook  | [Read: Class 27](./frontend/Using%20the%20State%20Hook.md)             |
+| Using the effect Hook  | [Read: Class 28](./frontend/Using%20the%20Effect%20Hook.md)             |
