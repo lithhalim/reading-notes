@@ -78,3 +78,4 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | Component Based UI    | [Read: Class 26](./frontend/classCombonants.md)             |
 | Using the State Hook  | [Read: Class 27](./frontend/Using%20the%20State%20Hook.md)             |
 | Using the effect Hook  | [Read: Class 28](./frontend/Using%20the%20Effect%20Hook.md)             |
+| Using  Reducer with Hooks  | [Read: Class 29](./frontend/UsingaStateReducerwithHooks.md)             |
