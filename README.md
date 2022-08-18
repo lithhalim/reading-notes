@@ -80,3 +80,4 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | Using the effect Hook  | [Read: Class 28](./frontend/Using%20the%20Effect%20Hook.md)             |
 | Using  Reducer with Hooks  | [Read: Class 29](./frontend/UsingaStateReducerwithHooks.md)             |
 | Using  hashtable     | [Read: Class 30](./frontend/hashtable.md)             |
+| Using  contextApi     | [Read: Class 31](./frontend/contextapi.md)             |
