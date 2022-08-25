@@ -69,16 +69,18 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | class13(soketio-chat )| [soket io-chat ](./classes/READMECLASS13.md)              |
 | class14(tree )        | [tree ](./classes/tree/README.md)                         |
 | class15(aws )         | [aws ](./classes/aws/README.md)                           |
-| class16(aws2 )        | [aws2 ](./classes/aws2/README.md)                        |
+| class16(aws2 )        | [aws2 ](./classes/aws2/README.md)                         |
 | class17(aws 3)        | [aws3 ](./classes/aws3/README.md)                
 
 
 | CLASS NAME            |                  LINKED CALSS                             |
 | --------------------- | -------------------------------------------------------   |
-| Component Based UI    | [Read: Class 26](./frontend/classCombonants.md)             |
-| Using the State Hook  | [Read: Class 27](./frontend/Using%20the%20State%20Hook.md)             |
-| Using the effect Hook  | [Read: Class 28](./frontend/Using%20the%20Effect%20Hook.md)             |
-| Using  Reducer with Hooks  | [Read: Class 29](./frontend/UsingaStateReducerwithHooks.md)             |
-| Using  hashtable     | [Read: Class 30](./frontend/hashtable.md)             |
-| Using  contextApi     | [Read: Class 31](./frontend/contextapi.md)             |
-| React Context API: A deep  | [Read: Class 32](./frontend/contextapi2.md)             |
+| Component Based UI    | [Read: Class 26](./frontend/classCombonants.md)           |
+| Using the State Hook  | [Read: Class 27](./frontend/Using%20the%20State%20Hook.md)|
+| Using the effect Hook | [Read: Class 28](./frontend/Using%20the%20Effect%20Hook.md)|
+| Using  Reducer with Hooks  | [Read: Class 29](./frontend/UsingaStateReducerwithHooks.md)|
+| Using  hashtable     | [Read: Class 30](./frontend/hashtable.md)                  |
+| Using  contextApi     | [Read: Class 31](./frontend/contextapi.md)                |
+| React Context API: A deep  | [Read: Class 32](./frontend/contextapi2.md)          |
+| React auth                 | [Read: Class 33](./frontend/auth.md)          |
+| Reading: API Integration| [Read: Class 34](./frontend/APIIntegration.md)          |
