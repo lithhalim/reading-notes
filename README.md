@@ -84,3 +84,4 @@ Download the free e-book, Learn SQLwhich is an excellent introduction to SQL and
 | React Context API: A deep  | [Read: Class 32](./frontend/contextapi2.md)          |
 | React auth                 | [Read: Class 33](./frontend/auth.md)          |
 | Reading: API Integration| [Read: Class 34](./frontend/APIIntegration.md)          |
+| Reading: redux| [Read: Class 35](./frontend/redux.md)          |
